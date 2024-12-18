@@ -1,0 +1,122 @@
+[
+	{
+		"brand": "Pagani",
+		"type": "Zonda Cinque Roadster",
+		"description1": "An ultra-rare open-top hypercar that combines exquisite Italian craftsmanship with unmatched engineering brilliance.",
+		"description2": "Designed for those who demand the extraordinary, this masterpiece offers breathtaking performance and iconic design in perfect harmony.",
+		"tagline": "A Masterpiece on Four Wheels",
+		"engine": "7.3L V12",
+		"power": "670 HP",
+		"topSpeed": "349 KM/H",
+		"acceleration": "3.0s",
+		"images": ["src/assets/img/cars/zonda-cinque-roadster/1.jpg", "src/assets/img/cars/zonda-cinque-roadster/2.jpg", "src/assets/img/cars/zonda-cinque-roadster/3.jpg"]
+	},
+	{
+		"brand": "Ferrari",
+		"type": "LaFerrari Aperta",
+		"description1": "A groundbreaking hybrid hypercar that showcases Ferrari's cutting-edge innovation, blending electric technology with traditional V12 power.",
+		"description2": "With its sculpted lines and breathtaking performance, LaFerrari embodies the perfect balance of technology, speed, and style.",
+		"tagline": "A Symphony of Power and Beauty",
+		"engine": "6.3L V12",
+		"power": "950 HP",
+		"topSpeed": "352 KM/H",
+		"acceleration": "2.6s",
+		"images": ["src/assets/img/cars/laferrari-aperta/1.jpg", "src/assets/img/cars/laferrari-aperta/2.jpg", "src/assets/img/cars/laferrari-aperta/3.jpg"]
+	},
+	{
+		"brand": "Ferrari",
+		"type": "SP3 Daytona",
+		"description1": "A tribute to Ferrari's legendary endurance racing history, blending futuristic design with classic inspiration.",
+		"description2": "The SP3 Daytona pairs a naturally aspirated V12 engine with aerodynamic precision for unparalleled driving pleasure.",
+		"tagline": "Racing Heritage Reimagined",
+		"engine": "6.5L V12",
+		"power": "829 HP",
+		"topSpeed": "340 KM/H",
+		"acceleration": "2.9s",
+		"images": ["src/assets/img/cars/sp3-daytona/1.jpg", "src/assets/img/cars/sp3-daytona/2.jpg", "src/assets/img/cars/sp3-daytona/3.jpg"]
+	},
+	{
+		"brand": "Aston Martin",
+		"type": "Valkyrie",
+		"description1": "A hypercar born from Formula 1 expertise, combining cutting-edge technology with stunning aesthetics.",
+		"description2": "The Valkyrie redefines the limits of performance with a hybrid V12 engine and an ultra-lightweight carbon-fiber structure.",
+		"tagline": "The Ultimate Hypercar Experience",
+		"engine": "6.5L V12",
+		"power": "1160 HP",
+		"topSpeed": "402 KM/H",
+		"acceleration": "2.5s",
+		"images": ["src/assets/img/cars/valkyrie/1.jpg", "src/assets/img/cars/valkyrie/2.jpg", "src/assets/img/cars/valkyrie/3.jpg"]
+	},
+	{
+		"brand": "Koenigsegg",
+		"type": "Agera RS Thor",
+		"description1": "A special edition of the iconic Agera RS, offering blistering speed and advanced engineering.",
+		"description2": "The Thor edition stands out with exclusive styling and refined aerodynamics for ultimate performance.",
+		"tagline": "Dominating Roads and Tracks",
+		"engine": "5.0L V8",
+		"power": "1360 HP",
+		"topSpeed": "447 KM/H",
+		"acceleration": "2.7s",
+		"images": ["src/assets/img/cars/agera-thor/1.jpg", "src/assets/img/cars/agera-thor/2.jpg", "src/assets/img/cars/agera-thor/3.jpg"]
+	},
+	{
+		"brand": "Koenigsegg",
+		"type": "Jesko Attack",
+		"description1": "A hypercar that pushes the boundaries of aerodynamics and engineering for track-focused performance.",
+		"description2": "The Jesko Attack is designed to dominate circuits with its active aerodynamics and monstrous twin-turbo V8 engine.",
+		"tagline": "Track-Ready Excellence",
+		"engine": "5.0L V8",
+		"power": "1600 HP",
+		"topSpeed": "482 KM/H",
+		"acceleration": "2.6s",
+		"images": ["src/assets/img/cars/jesko-attack/1.jpg", "src/assets/img/cars/jesko-attack/2.jpg", "src/assets/img/cars/jesko-attack/3.jpg"]
+	},
+	{
+		"brand": "Ferrari",
+		"type": "812 Competizione",
+		"description1": "An exclusive high-performance GT that combines Ferrari's V12 legacy with innovative design.",
+		"description2": "With its track-inspired features and breathtaking performance, the 812 Competizione sets a new standard in luxury speed.",
+		"tagline": "The Pinnacle of Ferrari's V12 Evolution",
+		"engine": "6.5L V12",
+		"power": "830 HP",
+		"topSpeed": "340 KM/H",
+		"acceleration": "2.85s",
+		"images": ["src/assets/img/cars/812-competizione/1.jpg", "src/assets/img/cars/812-competizione/2.jpg", "src/assets/img/cars/812-competizione/3.webp"]
+	},
+	{
+		"brand": "Hennessey",
+		"type": "Venom F5",
+		"description1": "A hypercar built to break speed records, combining American craftsmanship with cutting-edge engineering.",
+		"description2": "With a focus on extreme aerodynamics and raw power, the Venom F5 redefines speed in the hypercar world.",
+		"tagline": "Speed Beyond Limits",
+		"engine": "6.6L V8",
+		"power": "1817 HP",
+		"topSpeed": "500 KM/H",
+		"acceleration": "2.4s",
+		"images": ["src/assets/img/cars/venom-f5/1.webp", "src/assets/img/cars/venom-f5/2.webp", "src/assets/img/cars/venom-f5/3.webp"]
+	},
+	{
+		"brand": "Bugatti",
+		"type": "Divo",
+		"description1": "A masterpiece of bespoke luxury, engineered for exceptional handling and dynamic performance.",
+		"description2": "The Bugatti Divo offers exclusivity and sophistication, perfectly balanced with high-speed capability.",
+		"tagline": "Exclusivity Meets Agility",
+		"engine": "8.0L W16",
+		"power": "1500 HP",
+		"topSpeed": "380 KM/H",
+		"acceleration": "2.4s",
+		"images": ["src/assets/img/cars/divo/1.jpg", "src/assets/img/cars/divo/2.jpg", "src/assets/img/cars/divo/3.jpg"]
+	},
+	{
+		"brand": "Porsche",
+		"type": "918 Spyder",
+		"description1": "A hybrid supercar that combines cutting-edge technology with Porsche’s timeless performance legacy.",
+		"description2": "The 918 Spyder delivers an exhilarating driving experience with its blend of electric innovation and roaring V8 power.",
+		"tagline": "Innovative Performance Redefined",
+		"engine": "4.6L V8",
+		"power": "887 HP",
+		"topSpeed": "340 KM/H",
+		"acceleration": "2.6s",
+		"images": ["src/assets/img/cars/918-spyder/1.jpg", "src/assets/img/cars/918-spyder/2.jpg", "src/assets/img/cars/918-spyder/3.jpg"]
+	}
+]
