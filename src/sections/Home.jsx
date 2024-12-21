@@ -5,7 +5,7 @@ import ChevronIcon from "./../assets/icon/chevron-right.svg"
 const Home = () => {
 	const [showContent, setShowContent] = useState(false)
 
-	// Memunculkan elemen setelah 3 detik
+	// Memunculkan elemen setelah 1 detik
 	useEffect(() => {
 		const timer = setTimeout(() => {
 			setShowContent(true)
