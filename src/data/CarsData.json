@@ -13,6 +13,18 @@
 	},
 	{
 		"brand": "Ferrari",
+		"type": "FXX-K Evo",
+		"description1": "An advanced track-only hypercar that takes Ferrari's racing pedigree to unparalleled heights.",
+		"description2": "With its aggressive aerodynamics and cutting-edge hybrid technology, the FXX-K Evo is a purebred beast on the track.",
+		"tagline": "Born to Dominate the Track",
+		"engine": "6.3L V12",
+		"power": "1036 HP",
+		"topSpeed": "350 KM/H",
+		"acceleration": "2.5s",
+		"images": ["src/assets/img/cars/fxx-k-evo/1.jpg", "src/assets/img/cars/fxx-k-evo/2.jpg", "src/assets/img/cars/fxx-k-evo/3.jpg"]
+	},
+	{
+		"brand": "Ferrari",
 		"type": "LaFerrari Aperta",
 		"description1": "A groundbreaking hybrid hypercar that showcases Ferrari's cutting-edge innovation, blending electric technology with traditional V12 power.",
 		"description2": "With its sculpted lines and breathtaking performance, LaFerrari embodies the perfect balance of technology, speed, and style.",
@@ -57,7 +69,7 @@
 		"power": "1360 HP",
 		"topSpeed": "447 KM/H",
 		"acceleration": "2.7s",
-		"images": ["src/assets/img/cars/agera-thor/1.jpg", "src/assets/img/cars/agera-thor/2.jpg", "src/assets/img/cars/agera-thor/3.jpg"]
+		"images": ["src/assets/img/cars/agera-thor/1.webp", "src/assets/img/cars/agera-thor/2.webp", "src/assets/img/cars/agera-thor/3.webp"]
 	},
 	{
 		"brand": "Koenigsegg",
@@ -72,6 +84,30 @@
 		"images": ["src/assets/img/cars/jesko-attack/1.jpg", "src/assets/img/cars/jesko-attack/2.jpg", "src/assets/img/cars/jesko-attack/3.jpg"]
 	},
 	{
+		"brand": "Pagani",
+		"type": "Imola Roadster",
+		"description1": "A hypercar that epitomizes Pagani's commitment to extreme performance and bespoke luxury.",
+		"description2": "The Imola Roadster offers unparalleled engineering and exclusivity, making it a dream for connoisseurs.",
+		"tagline": "Pinnacle of Italian Craftsmanship",
+		"engine": "6.0L V12",
+		"power": "827 HP",
+		"topSpeed": "355 KM/H",
+		"acceleration": "2.9s",
+		"images": ["src/assets/img/cars/imola-roadster/1.jpg", "src/assets/img/cars/imola-roadster/2.jpg", "src/assets/img/cars/imola-roadster/3.jpg"]
+	},
+	{
+		"brand": "Pagani",
+		"type": "Utopia",
+		"description1": "An artistic expression of Pagani's engineering brilliance, combining timeless design with cutting-edge performance.",
+		"description2": "The Utopia is more than a car; it is a celebration of creativity and innovation.",
+		"tagline": "Timeless Elegance, Unmatched Performance",
+		"engine": "6.0L V12",
+		"power": "852 HP",
+		"topSpeed": "360 KM/H",
+		"acceleration": "2.8s",
+		"images": ["src/assets/img/cars/utopia/1.heic", "src/assets/img/cars/utopia/2.heic", "src/assets/img/cars/utopia/3.heic"]
+	},
+	{
 		"brand": "Ferrari",
 		"type": "812 Competizione",
 		"description1": "An exclusive high-performance GT that combines Ferrari's V12 legacy with innovative design.",
@@ -81,7 +117,7 @@
 		"power": "830 HP",
 		"topSpeed": "340 KM/H",
 		"acceleration": "2.85s",
-		"images": ["src/assets/img/cars/812-competizione/1.jpg", "src/assets/img/cars/812-competizione/2.jpg", "src/assets/img/cars/812-competizione/3.webp"]
+		"images": ["src/assets/img/cars/812-competizione/1.webp", "src/assets/img/cars/812-competizione/2.webp", "src/assets/img/cars/812-competizione/3.webp"]
 	},
 	{
 		"brand": "Hennessey",
@@ -105,7 +141,7 @@
 		"power": "1500 HP",
 		"topSpeed": "380 KM/H",
 		"acceleration": "2.4s",
-		"images": ["src/assets/img/cars/divo/1.jpg", "src/assets/img/cars/divo/2.jpg", "src/assets/img/cars/divo/3.jpg"]
+		"images": ["src/assets/img/cars/divo/1.webp", "src/assets/img/cars/divo/2.webp", "src/assets/img/cars/divo/3.webp"]
 	},
 	{
 		"brand": "Porsche",
@@ -117,6 +153,30 @@
 		"power": "887 HP",
 		"topSpeed": "340 KM/H",
 		"acceleration": "2.6s",
-		"images": ["src/assets/img/cars/918-spyder/1.jpg", "src/assets/img/cars/918-spyder/2.jpg", "src/assets/img/cars/918-spyder/3.jpg"]
+		"images": ["src/assets/img/cars/918-spyder/1.webp", "src/assets/img/cars/918-spyder/2.webp", "src/assets/img/cars/918-spyder/3.webp"]
+	},
+	{
+		"brand": "Lexus",
+		"type": "LFA Nurburgring Edition",
+		"description1": "A track-focused evolution of the legendary Lexus LFA, designed for unparalleled performance on the world's most challenging circuits.",
+		"description2": "With enhanced aerodynamics, upgraded suspension, and increased power, the LFA Nurburgring Edition is the ultimate expression of Lexus' engineering excellence.",
+		"tagline": "Mastering the Green Hell",
+		"engine": "4.8L V10",
+		"power": "562 HP",
+		"topSpeed": "325 KM/H",
+		"acceleration": "3.6s",
+		"images": ["src/assets/img/cars/lfa-nurburgring/1.heic", "src/assets/img/cars/lfa-nurburgring/2.heic", "src/assets/img/cars/lfa-nurburgring/3.heic"]
+	},
+	{
+		"brand": "Mercedes-Benz",
+		"type": "SLR Stirling Moss",
+		"description1": "A rare and stunning tribute to one of the greatest racing legends, blending classic design with modern engineering.",
+		"description2": "The SLR Stirling Moss is a speedster without equal, offering open-top exhilaration and unmatched performance.",
+		"tagline": "A Racing Legend Reborn",
+		"engine": "5.4L V8",
+		"power": "641 HP",
+		"topSpeed": "350 KM/H",
+		"acceleration": "3.5s",
+		"images": ["src/assets/img/cars/slr-stirling-moss/1.jpg", "src/assets/img/cars/slr-stirling-moss/2.jpg", "src/assets/img/cars/slr-stirling-moss/3.jpg"]
 	}
 ]
