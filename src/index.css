@@ -82,10 +82,14 @@ body {
 	.container {
 		width: 80%;
 	}
+
+	.section {
+		min-height: 100vh;
+	}
 }
 
 .section {
-	min-height: 100vh;
+	min-height: 100svh;
 }
 
 .heading {

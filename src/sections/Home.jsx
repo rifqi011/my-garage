@@ -2,7 +2,7 @@ import VideoBackground from "../components/VideoBackground"
 import { useState, useEffect } from "react"
 import ChevronIcon from "./../assets/icon/chevron-right.svg"
 
-const Home = () => {
+const Home = ({ onVideoLoaded }) => {
 	const [showContent, setShowContent] = useState(false)
 
 	// Memunculkan elemen setelah 1 detik
@@ -16,7 +16,7 @@ const Home = () => {
 
 	return (
 		<section id="home" className="w-full h-screen overflow-hidden flex items-center justify-center">
-			<VideoBackground />
+			<VideoBackground onLoaded={onVideoLoaded} />
 
 			{showContent && (
 				<div href="#line-up" className="text-center text-white mb-8 opacity-0 animate-fadeInDown flex flex-col gap-6" style={{ animationDelay: "0.5s" }}>
